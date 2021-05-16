@@ -10,6 +10,8 @@ echo -e "\e[32mWelcome r00t!\e[0m"
 sudo mv hashd mymodule.py /usr/bin
 sudo mkdir /usr/share/hashd
 sudo mv banner db.txt /usr/share/hashd
+sudo chmod 777 /usr/share/hashd
+
 echo -e "\e[32m\nhashd installed successfully\ntype 'hashd' in your terminal.\e[0m"
 
 
