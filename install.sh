@@ -8,6 +8,7 @@ fi
 echo -e "\e[32mWelcome r00t!\e[0m"
 
 sudo mv hashd mymodule.py /usr/local/bin
+sudo mv hashd mymodule.py /usr/bin
 sudo mkdir /usr/share/hashd
 sudo mv banner db.txt /usr/share/hashd
 sudo chmod 777 /usr/bin/hashd /usr/local/bin/hashd
