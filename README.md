@@ -1,5 +1,10 @@
 # decrypter
 Very simple script for decrypting hashes.
-```python3
-print("hello, wolrd!")
+
+## installation
+```bash
+git clone https://github.com/7azabet/decrypter.git
+cd decrypter
+sudo bash install.sh
+hashd
 ```
