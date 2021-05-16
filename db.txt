@@ -1,0 +1,4 @@
+admin
+password
+p@ssw0rd
+administration
